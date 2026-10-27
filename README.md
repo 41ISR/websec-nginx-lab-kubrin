@@ -1,4 +1,4 @@
-# %СЮДА_ВСТАВИТЬ_ВАШ_NGINX_САБДОМЕН%
+nginx.divefoojewi.kitek-pg.ru
 
 # Лабораторная: Nginx
 
